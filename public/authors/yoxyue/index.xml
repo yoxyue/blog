@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>四岳 on 四岳之界</title>
+    <link>/authors/yoxyue/</link>
+    <description>Recent content in 四岳 on 四岳之界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://yoxyue.com/&#34;&gt;四岳&lt;/a&gt; </copyright>
+    <lastBuildDate>Thu, 28 Jan 2021 10:50:23 +0800</lastBuildDate><atom:link href="/authors/yoxyue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blundstone靴子</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Thu, 28 Jan 2021 10:50:23 +0800</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Blundstone是一个在国内比较小众，在澳洲和加拿大却是年轻人人手一双的的澳大利亚品牌。我所拥有的是 Style 600 工作靴 ，而非流行的500或585系列。（说实话研究这些系列之间的区别着实费了一些时间）</description>
+    </item>
+    
+  </channel>
+</rss>
