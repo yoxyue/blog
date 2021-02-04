@@ -1,1 +1,0 @@
-hugo && rsync -avz --delete -e 'ssh -p 28950' public/ root@yoxyue.com:/usr/share/nginx/html
